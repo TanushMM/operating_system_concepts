@@ -1,3 +1,5 @@
+// FCFS CPU Scheduling
+
 #include <stdio.h>
 
 int waiting_time(int process[], int n, int burst_time[], int wait_time[]){
